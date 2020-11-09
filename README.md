@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/avoltis/avoltis/raw/master/dinosaur_wave.gif" width="50">
+<img src="https://github.com/avoltis/avoltis/raw/master/dinosaur_wave.gif" width="60">
 
 - 🔭 I’m currently working on A+E and personal projects
 - 🌱 I’m currently learning brightscript
